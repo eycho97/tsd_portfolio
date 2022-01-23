@@ -1,4 +1,4 @@
-# tsd_portfolio
+# Edward Cho Portfolio
 My portfolio for Telling Stories with Data at CMU
 
 # About me
