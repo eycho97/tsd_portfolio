@@ -39,11 +39,16 @@ I think that this method was a good way to evaluate the data visualization acros
 
 ### Step 3: Wireframe a Solution
 
+I wireframed two sketches to test with users. Although the original visualization only discussed the batting averages, I wanted to bring in total runs (total points) into the discussion as well. With these wireframes, I attempted two different methods to be able to compare and contrast the batting averages and total runs across the different cities.
+
 ![Sketch1](a3sketch1.jpg)
+In the first sketch, I kept the main focus on the batting averages and color coded the total runs into three different categories. With the title I tried to pose the quesiton of whether batting averages is really the best measure of success, given that the cities with high batting averages don't always have the most runs.
 
 ![Sketch2](a3sketch2.jpg)
+In the second sketch, I used a dual axis bar graph to represent both total runs and batting averages in the same graph. Compared to the first graph, it might be harder to immediately read the data, given that there are two different axes. However, I thought showing the bars for both batting averages and total runs allows viewers to better evaluate the relationship between the two variables.
 
 ### Step 4: Test the Solution
+
 
 ### Step 5: Build Your Solution
 
