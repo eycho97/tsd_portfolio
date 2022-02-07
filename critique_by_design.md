@@ -11,6 +11,11 @@ The visualization captured my eye because of the unique representation of data t
 
 ### Step 2: Critique the Data Visualization
 
+|Criteria|Score|Discussion|
+|--------|-----|----------|
+|Usefulness|6|After reading the text, and looking through the numbers, people will start to make sense of the visualization. I can see it being useful to those that are curious.|
+
+
 ### Step 3: Wireframe a Solution
 
 ![Sketch1](a3sketch1.jpg)
