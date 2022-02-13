@@ -1,4 +1,4 @@
-#Final Project: Part 1
+# Final Project: Part 1
 
 ## Outline
 Through the final project I plan to explore the topic of lack of sleep for high schoolers and Pennsylvania (and the US in general).
@@ -27,8 +27,19 @@ Finally, I will have a call to action to urge the viewers to pressure the Pennsy
 ## Data
 [America's Health Rankings - Insufficient Sleep](https://www.americashealthrankings.org/explore/annual/measure/sleep/state/PA)
 [CDC - Sleep Requirements](https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html)
+- I will use this data to visualize how much sleep is recommended for different age groups, highlighting high schoolers.
 [CDC - Risk Factors & Health Conditions](https://www.cdc.gov/sleep/data_statistics.html)
+- I will use the several sources provided on this page to visualize how Pennsylvania is doing compared to the rest of the country, and provide vizualizations of the consequences of the lack of sleep on our health.
 [HealthyPeople - PA Student Sleep](https://www.healthypeople.gov/2020/data/Chart/5260?category=1&by=Total&fips=-1)
+- I will use this data to compare sleep trends for high schoolers in PA and the average for the US.
+[CDC - Sleep Duration & Injury](https://www.cdc.gov/mmwr/volumes/65/wr/mm6513a1.htm#T1_down)
+- I will use this data to visualize how lack of sleep can lead to various injuries
+[CDC - Teeneager Mortality](https://www.cdc.gov/nchs/products/databriefs/db37.htm)
+[ScienceAdvances - Later Start Times](https://www.science.org/doi/10.1126/sciadv.aau6200)
+- I will use this data in my solution section to show how later start times can improve sleep and performance for students.
+[Unniversity of Minnesoty - GPA Boost](https://conservancy.umn.edu/handle/11299/219373)
+- Shows how later start times resulted in increased GPA
+
 
 
 ## Method and Medium
