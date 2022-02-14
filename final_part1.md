@@ -23,6 +23,22 @@ Here, I will discuss a relatively simple solution to this problem - delaying the
 Finally, I will have a call to action to urge the viewers to pressure the Pennsylvania (or Pittsburgh) government to change the local school start times. I will need to find more details on how this might be possible.
 
 ## Sketches
+![Story Arc](story_arc.png)
+- This is the story arc I developed in class. At this point, I had not narrowed the topic down to high school sleep, so it is more generalized.
+- If I were to draw it again, I would start on a neutral or lower mood as I talk about my personal experiences, then try to catch their attention with alarming health consequences that come with the lack of sleep.
+
+![Sleep Recommendations](sleep_recs.png)
+- This visualization is will be used in the sleep basics section. It is very simple, demonstrating the hours of sleep high school students should get.
+
+![Health Conditions](health_conditions.png)
+- This visualization shows comparisons on chronic health conditions for those getting sufficient sleep vs. those who aren't.
+
+![PA HS Students](pa_hs_sleep.png)
+- I believe that this is a simple yet effective visualization to show the downwards trend for high school students who are getting sufficient sleep.
+
+![GPA Improvement](gpa.png)
+- This chart shows the improvement in GPA for students that are in school districts with later start times. The data itself is more comprehensive (representing improvements in more grades, while this graph is just for 9th graders), so this is an initial sketch to give an idea about the solution.
+
 
 ## Data
 [America's Health Rankings - Insufficient Sleep](https://www.americashealthrankings.org/explore/annual/measure/sleep/state/PA)
