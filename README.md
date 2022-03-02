@@ -14,3 +14,4 @@ Although I have a background in HCI, I don't have too much experience with apply
 ### [Assignment 3 - Critique By Visualization](/critique_by_design.md)
 ### Final Project - [Part 1](/final_part1.md)
 ### Final Project - [Part 2](/final_part2.md)
+### Final Project - [Part 3](/final_part3.md)
