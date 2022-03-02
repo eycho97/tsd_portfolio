@@ -74,3 +74,9 @@ Finally, I will have a call to action to urge the viewers to pressure the Pennsy
 I will build my final project using the shorthand platform demonstrated in class.
 In the next phases of the project, I will create a mood board that defines the aesthetic of the shorthand webiste and fits in with the message I intend to tell with my data visualizations.
 I will create easy-to-read data visualizations and complementary text to guid the viewers through a compelling story.
+
+[Part 2](/final_part2.md)
+
+[Part 3](/final_part3.md)
+
+[Back to Home](/README.md)

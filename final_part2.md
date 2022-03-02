@@ -47,4 +47,7 @@ Today I will be asking you to give feedback on my Telling Stories with Data proj
 - Add images or iconography that supports the story being told.
 
 [Part 1](/final_part1.md)
+
+[Part 3](/final_part3.md)
+
 [Back to Home](/README.md)
