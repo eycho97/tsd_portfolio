@@ -12,6 +12,7 @@ Although I have a background in HCI, I don't have too much experience with apply
 ### [Class Exercise - Tableau](/tableau_exercise.md)
 ### [Assignment 2 - Visualizing Government Debt](/dataviz2.md)
 ### [Assignment 3 - Critique By Visualization](/critique_by_design.md)
+### [Final Project](https://carnegiemellon.shorthandstories.com/starting-school-one-hour-later/index.html)
 ### Final Project - [Part 1](/final_part1.md)
 ### Final Project - [Part 2](/final_part2.md)
 ### Final Project - [Part 3](/final_part3.md)
