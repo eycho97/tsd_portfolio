@@ -1,7 +1,7 @@
 # Final Project: Part 3
 
-## 
-To view the final product, visit this link: [Shorthand Website](https://carnegiemellon.shorthandstories.com/starting-school-one-hour-later/index.html)
+## Project Website
+To view the final product, visit this link: [Shorthand Website](https://carnegiemellon.shorthandstories.com/starting-school-one-hour-later/index.html) | 
 [Preview Link](https://preview.shorthand.com/IbygZXAjr0V5QdRR)
 
 ## Summary of Changes
